@@ -2,6 +2,8 @@
 <h3 align="center">A student at NYU who love developing machine learning models and statistical frameworks for causal inference</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=githubnyu&label=Profile%20views&color=0e75b6&style=flat" alt="githubnyu" /> </p>
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"> ![image](https://github.com/githubnyu/githubnyu/assets/92228474/04ca9d5a-1478-4574-986a-4f2bc93ad2db)
+
 
 - 🔭 I’m currently working on **presenting github**
 
